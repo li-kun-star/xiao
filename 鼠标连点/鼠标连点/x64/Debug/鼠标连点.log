@@ -1,0 +1,7 @@
+﻿  源.cpp
+D:\代码\鼠标连点\鼠标连点\源.cpp(12,28): warning C4244: “参数”: 从“_Rep”转换到“DWORD”，可能丢失数据
+D:\代码\鼠标连点\鼠标连点\源.cpp(12,28): warning C4244:         with
+D:\代码\鼠标连点\鼠标连点\源.cpp(12,28): warning C4244:         [
+D:\代码\鼠标连点\鼠标连点\源.cpp(12,28): warning C4244:             _Rep=__int64
+D:\代码\鼠标连点\鼠标连点\源.cpp(12,28): warning C4244:         ]
+  鼠标连点.vcxproj -> D:\代码\鼠标连点\x64\Debug\鼠标连点.exe
